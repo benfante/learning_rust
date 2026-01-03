@@ -1,4 +1,4 @@
-# learning_rust
+# Learning Rust
 
 Exercises during my learning of the [Rust language](https://www.rust-lang.org/)
 
