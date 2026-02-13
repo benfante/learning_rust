@@ -10,7 +10,7 @@ Exercises during my learning of the [Rust language](https://www.rust-lang.org/)
 
 [![Programming Rust, 3rd Edition](https://www.oreilly.com/covers/urn:orm:book:9781098176228/300w/)](https://www.oreilly.com/library/view/programming-rust-3rd/9781098176228/)
 
-You can find the examples I try from this book in the [examples/programming_rust_3rd](examples/programmin_rust_3rd) directory. It's not a pedissequous copy of the examples, but I try to follow along with the book and write my own code based on the concepts and examples presented in the book, usually expanding on them with my own ideas and variations, for better understanding and practice.
+You can find the examples I try from this book in the [examples/programming_rust_3rd](https://github.com/benfante/learning_rust/tree/main/examples/programming_rust_3rd) directory. It's not a pedissequous copy of the examples, but I try to follow along with the book and write my own code based on the concepts and examples presented in the book, usually expanding on them with my own ideas and variations, for better understanding and practice.
 
 The official repositories for the book is available on GitHub at [ProgrammingRust](https://github.com/ProgrammingRust).
 
