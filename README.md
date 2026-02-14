@@ -70,6 +70,14 @@ hello_world/
     └── main.rs
 ```
 
+If the name of the project is not valid (for example, it can't start with a number), You can assign it using the `--name` parameter. For example:
+
+```sh
+cargo new 01_hello_world --name hello_world
+```
+
+That will create the `01_hello_world` directory, but the project/package defined inside will be `hello_world`.
+
 ### Running the Rust Project
 
 To run the Rust project, navigate to the project directory and use the following command:
